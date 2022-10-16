@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GXn2BVshnQT8p9iky+vcri/AFP182eR5AIsxq2sBDE+qDXxYUXcVCEw/qzsA6jrYUIU6x18hlu2pIhdsemSxYQ==",
+  "dgSpecHash": "fRt6GCIAP12QJ78lAUSmcdub4jm7JR76mubcyByZpgYfZxge/nX2UFOylUmrd95m1C2B6bam4uov1JxWolbVHg==",
   "success": true,
   "projectFilePath": "C:\\project\\dotnet\\demo\\demo.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,8 @@
     "C:\\Users\\HP Envy 13\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\HP Envy 13\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\HP Envy 13\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP Envy 13\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
+    "C:\\Users\\HP Envy 13\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.2\\pomelo.entityframeworkcore.mysql.6.0.2.nupkg.sha512",
     "C:\\Users\\HP Envy 13\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\HP Envy 13\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\HP Envy 13\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
