@@ -38,8 +38,6 @@ namespace demo.Services
 
     public void UpdateProduct(Product product)
     {
-      var existedProduct = GetProduct(product.Id);
-      if (existedProduct == null) return;
       _context.Products.Update(product);
       _context.SaveChanges();
     }

@@ -1,0 +1,10 @@
+@model Product;
+@{
+    ViewData["Title"] = "Product Detail Page";
+    var product = Model;
+}
+
+<h1>@product.Name</h1>
+<p>Price: @product.Price</p>
+<p>Quantity: @product.Quantity</p>
+<p>Category: @product.Category.Name</p>
